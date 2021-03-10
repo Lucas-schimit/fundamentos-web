@@ -5,4 +5,20 @@
     text-align: center;
 }
 
+.justify{
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li{
+    display: inline;
+    padding: 15px;
+}
+
 /*Estilo da página Local-de-atuacao.html*/ 
