@@ -64,3 +64,9 @@
     justify-content: center;
     align-items: center;
 }
+.container1{
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+    align-items: left;
+}
